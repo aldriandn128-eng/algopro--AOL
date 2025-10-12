@@ -9,7 +9,7 @@ struct booking
 {
   char nama[50];
   int noKamar; 
-  int lamaMenginap; /* data */
+  int lamaMenginap; 
 };
 
 //daftar jenis hotel
